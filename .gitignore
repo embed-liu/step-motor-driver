@@ -1,0 +1,22 @@
+# Keil MDK build output
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.bak
+*.dep
+*.crf
+*.o
+*.d
+*.hex
+*.axf
+*.map
+*.lst
+*.htm
+*.lnp
+*.sct
+*.iex
+*.build_log.htm
+# system
+Thumbs.db
+.DS_Store
